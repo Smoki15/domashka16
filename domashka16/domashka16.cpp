@@ -45,7 +45,6 @@
 //    fout.close();
 //    return 0;
 //}
-
 //завдання 2
 //#include <iostream>
 //#include "rus_to_eng.h"
